@@ -1,0 +1,29 @@
+verify user is able to select the departure
+verify user is able to change his selection in departure
+verify user is able to select the destination
+verify user is able to change his selection in destination
+verify user is see welcome content on home page
+verify user is able to see related field labels
+verify user is able to see Find Flights button
+verify user is able to search flights between two cities
+verify user is not able to search flights between same city in departure and destination
+verify user is able to see header links and able to perform the actions
+verify user is able to see search results on proper flight selection
+verify user is able to see the list of lights with proper details
+verify user is able to select the flight using the details like price and departs/arrives timings
+verify user is able to see the flights between those two cities only
+verify user is able to see the header links and able to perform actions
+verify user is able to see the proper header with relavent cities
+verify user is able to goback to search page at any moment 
+verify user is able to choose the flight from list
+verify user is able to see the proper flight details on the reserved page
+verify user is able to see the form to fill about address
+verify user is able to see the header links and able to perform actions
+verify user is able to goback to search page at any moment
+verify user is able to see the fill the required/mandatory fields informaiton
+verify user able to see the remember me checkbox
+verify user is able to click on the remember me checkbox
+verify the functionality of remember me checkbox
+verify user is able to see the purchage flight button and click
+verify user is able to see the flight booking success page with payment and flight booking details
+verify user is able to see header links and able to perform the actions
